@@ -11,7 +11,6 @@
     Most Modifiable To-do list app.
     <br/>
     <br/>
-    <a href="https://github.com/adityasinghjadon03/ToDoer"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
   </p>
